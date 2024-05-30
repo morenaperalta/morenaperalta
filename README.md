@@ -4,9 +4,8 @@ Passionate Full Stack Development **student** seeking new challenges and opportu
 
 I am currently in the process of training as a Full Stack developer, acquiring skills in both Frontend and Backend. I am a multidisciplinary profile with a great capacity for learning and adaptation, capable of understanding and executing each of the processes that bring a web page to life.
 
-## My *current skills* include:
-
 :checkered_flag:
+## My *current skills* include:
 
 <img src="https://camo.githubusercontent.com/6010a85175edf5787bba645d2bdad7ec26f41aafce3f5a59569352de55deed74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/>
 <img src="https://camo.githubusercontent.com/6ed0d23410b14f23345d9d267cb31c7055d31b9e66802f2ef0fc6dafe03cbee0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176617363726970742d6637646631633f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"/>
