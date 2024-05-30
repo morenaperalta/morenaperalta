@@ -4,14 +4,13 @@ Passionate Full Stack Development **student** seeking new challenges and opportu
 
 I am currently in the process of training as a Full Stack developer, acquiring skills in both Frontend and Backend. I am a multidisciplinary profile with a great capacity for learning and adaptation, capable of understanding and executing each of the processes that bring a web page to life.
 
-:checkered_flag:
-## My *current skills* include:
+## My current skills include:
 
 <img src="https://camo.githubusercontent.com/6010a85175edf5787bba645d2bdad7ec26f41aafce3f5a59569352de55deed74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/>
 <img src="https://camo.githubusercontent.com/6ed0d23410b14f23345d9d267cb31c7055d31b9e66802f2ef0fc6dafe03cbee0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176617363726970742d6637646631633f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"/>
 <img src="https://camo.githubusercontent.com/8ff817d429668da48bb334bab4173df1d8dae0b028f444228a4af769be3b2192/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"/>
 
-## Technologies I am *working on* to expand my skillset:
+## Technologies I am working on to expand my skillset:
 
 :construction:
 
@@ -28,9 +27,9 @@ I am currently in the process of training as a Full Stack developer, acquiring s
 
 I consider myself a proactive person, with excellent communication and collaboration skills, capable of working independently or as part of a team.
 
-:rocket: I am constantly looking for new opportunities to learn and grow as a developer, and I am excited to contribute to innovative and challenging projects.
+I am constantly looking for new opportunities to learn and grow as a developer, and I am excited to contribute to innovative and challenging projects.
 
-Don't hesitate to contact me if you have any offers or projects that you find interesting!
+*Don't hesitate to **contact me** if you have any offers or projects that you find interesting!*
 
 <img src="https://camo.githubusercontent.com/29ba59dbf61686238096822c7de916a9b41c40bf362b70e7f2c609551ce8f656/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/> <link href="https://www.linkedin.com/in/morena-peralta-almada/">
 
