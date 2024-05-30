@@ -1,16 +1,16 @@
-# Hi everyone! I'm Morena Peralta 👾
+# Hi everyone! I'm Morena Peralta  👾
 
 Passionate Full Stack Development **student** seeking new challenges and opportunities.
 
 I am currently in the process of training as a Full Stack developer, acquiring skills in both Frontend and Backend. I am a multidisciplinary profile with a great capacity for learning and adaptation, capable of understanding and executing each of the processes that bring a web page to life.
 
-## My current skills 🔰 include:
+## My current skills  🔰  include:
 
 <img src="https://camo.githubusercontent.com/6010a85175edf5787bba645d2bdad7ec26f41aafce3f5a59569352de55deed74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/>
 <img src="https://camo.githubusercontent.com/6ed0d23410b14f23345d9d267cb31c7055d31b9e66802f2ef0fc6dafe03cbee0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176617363726970742d6637646631633f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"/>
 <img src="https://camo.githubusercontent.com/8ff817d429668da48bb334bab4173df1d8dae0b028f444228a4af769be3b2192/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"/>
 
-## Technologies I am working on 🚧 to expand my skillset:
+## Technologies I am working on  🚧  to expand my skillset:
 
 <img src="https://camo.githubusercontent.com/6cb5d58cd80680cae16dfdaf3bf18f5e291f6c1489cf43462476cf1589efd204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"/>
 <img src="https://camo.githubusercontent.com/fa7c4294c987f56c6bcae98942266f5264f81f9abf5bb9da77ae69aefdcfc94a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465"/>
