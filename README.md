@@ -28,6 +28,5 @@ I consider myself a proactive person, with excellent communication and collabora
 I am constantly looking for new opportunities to learn and grow as a developer, and I am excited to contribute to innovative and challenging projects.
 
 *Don't hesitate to **contact me** if you have any offers or projects that you find interesting!*
-
-<center><img src="https://camo.githubusercontent.com/29ba59dbf61686238096822c7de916a9b41c40bf362b70e7f2c609551ce8f656/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/> <link href="https://www.linkedin.com/in/morena-peralta-almada/"></center>
+<a href=https://www.linkedin.com/in/morena-peralta-almada/><strong>[Imagen que elijan](https://camo.githubusercontent.com/29ba59dbf61686238096822c7de916a9b41c40bf362b70e7f2c609551ce8f656/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)</strong></a>
 
