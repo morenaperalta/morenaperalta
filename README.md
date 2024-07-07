@@ -23,6 +23,13 @@ I am currently in the process of training as a Full Stack developer, acquiring s
 <img src="https://camo.githubusercontent.com/99f022ee281c1d9f2a7a2450e911eecb231ebee7560daa85f3ec7854b1ad0db7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d2532333737374242342e7376673f7374796c653d666c61742d737175617265266c6f676f3d706870266c6f676f436f6c6f723d7768697465"/>
 <img src="https://camo.githubusercontent.com/67e1f21c407e7cb2c9e307c577595f35135a8c4ae158aec82851f51f52863ee8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c61726176656c2d2532334646324432302e7376673f7374796c653d666c61742d737175617265266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465"/>
 
+# My GitHub Stats
+
+![More-Pe's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=More-Pe&layout=compact&langs_count=10&theme=shadow_blue)
+
+![More-Pe's GitHub stats](https://github-readme-stats.vercel.app/api?username=More-Pe&show_icons=true&theme=shadow_blue)
+
+
 I consider myself a proactive person, with excellent communication and collaboration skills, capable of working independently or as part of a team.
 
 I am constantly looking for new opportunities to learn and grow as a developer, and I am excited to contribute to innovative and challenging projects.
