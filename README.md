@@ -1,4 +1,4 @@
-# Hi everyone! I'm Morena Peralta  👾
+# Hi everyone! I'm Morena Peralta Almada 👾
 
 Passionate Full Stack Development **student** seeking new challenges and opportunities.
 
