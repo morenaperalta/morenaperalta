@@ -16,9 +16,8 @@ src="https://camo.githubusercontent.com/ff4ce3f023f28367db26fcca960568aa8c8c8fba
 
 # My GitHub Stats
 
-![More-Pe's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=More-Pe&layout=compact&langs_count=10&theme=shadow_blue)
-
-![More-Pe's GitHub stats](https://github-readme-stats.vercel.app/api?username=More-Pe&show_icons=true&theme=shadow_blue)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/More-Pe?cardType=github&theme=nightowl&preferLogin=false)](https://git.io/awesome-stats-card) <br>
+[![More-Pe's github langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=More-Pe&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 I consider myself a proactive person, with excellent communication and collaboration skills, capable of working independently or as part of a team.
