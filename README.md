@@ -4,21 +4,34 @@ Passionate Full Stack Development **student** seeking new challenges and opportu
 
 I am currently in the process of training as a Full Stack developer, acquiring skills in both Frontend and Backend. I am a multidisciplinary profile with a great capacity for learning and adaptation, capable of understanding and executing each of the processes that bring a web page to life.
 
-## My current skills  🔰  include:
+## My current skills 🔰 include:
 
-<img src="https://camo.githubusercontent.com/6010a85175edf5787bba645d2bdad7ec26f41aafce3f5a59569352de55deed74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/> <img src="https://camo.githubusercontent.com/6ed0d23410b14f23345d9d267cb31c7055d31b9e66802f2ef0fc6dafe03cbee0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176617363726970742d6637646631633f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"/> <img src="https://camo.githubusercontent.com/8ff817d429668da48bb334bab4173df1d8dae0b028f444228a4af769be3b2192/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"/> <img src="https://camo.githubusercontent.com/fc531b7ec44d5eb08d44dd57078a31ef6f3357bfd40ed63a86b9eab811b8b7ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465"/> <img src="https://camo.githubusercontent.com/684cec5aba4928826d297b765acdd61ae551b7df410942b3278aefaaf15aceaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"/> <img src="https://camo.githubusercontent.com/85f7d55972c294b45f6c2f5822b9c569f215a3ca256be9e3283c122a9f6e6fe1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465"/> <img src="https://camo.githubusercontent.com/7ff8386f975e245455b4fc0d388ef9b0bc61ce648a93a81a412f6082519f7cbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6573742d6265336431393f7374796c653d666c61742d737175617265266c6f676f3d6a657374266c6f676f436f6c6f723d7768697465"/> <img src="https://camo.githubusercontent.com/6cb5d58cd80680cae16dfdaf3bf18f5e291f6c1489cf43462476cf1589efd204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"/> <img src="https://camo.githubusercontent.com/bb133f9a48e0ad5238b369d19d4cfe1a950a59a3cf7f0d846a90272031488ca1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3133616135323f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"/> <img src="https://camo.githubusercontent.com/fa7c4294c987f56c6bcae98942266f5264f81f9abf5bb9da77ae69aefdcfc94a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465"/>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## Technologies I am working on  🚧  to expand my skillset:
+## Technologies I am working on 🚧 to expand my skillset:
 
-<img src="https://camo.githubusercontent.com/67e1f21c407e7cb2c9e307c577595f35135a8c4ae158aec82851f51f52863ee8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c61726176656c2d2532334646324432302e7376673f7374796c653d666c61742d737175617265266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465"/>
- <img
-src="https://camo.githubusercontent.com/ff4ce3f023f28367db26fcca960568aa8c8c8fbaf419b9f255484e8830fdc0d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3736344142433f7374796c653d666c61742d737175617265266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465"/> <img src="https://camo.githubusercontent.com/99f022ee281c1d9f2a7a2450e911eecb231ebee7560daa85f3ec7854b1ad0db7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d2532333737374242342e7376673f7374796c653d666c61742d737175617265266c6f676f3d706870266c6f676f436f6c6f723d7768697465"/>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 # My GitHub Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/More-Pe?cardType=github&theme=nightowl&preferLogin=false)](https://git.io/awesome-stats-card) <br>
 [![More-Pe's github langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=More-Pe&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
 
 I consider myself a proactive person, with excellent communication and collaboration skills, capable of working independently or as part of a team.
 
@@ -27,5 +40,6 @@ I am constantly looking for new opportunities to learn and grow as a developer, 
 *Don't hesitate to **contact me** if you have any offers or projects that you find interesting!*
 
 <a href=https://www.linkedin.com/in/morena-peralta-almada target="blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:mperalta.dev@gmail.com?subject=Asunto del correo&body=Cuerpo del correo"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo a Gmail"></a> <a href=https://www.github.com/More-Pe target="blank">![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+
 
 
