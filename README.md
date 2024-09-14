@@ -1,9 +1,9 @@
 <h1 align="center">Hi everyone! I'm Morena Peralta Almada 👾</h1>
 
-<p align="center">I'm a Full Stack Developer focused on building dynamic and functional web applications. After completing my training, I am seeking opportunities to apply my skills in real-world projects. My experience spans both Frontend and Backend development, allowing me to approach web solutions comprehensively.</p>
+<p align="center">I'm a Full Stack Developer focused on building dynamic and functional web applications. After completing my training, I am seeking opportunities to apply my skills in real-world projects. My experience spans both Frontend and Backend development.</p>
 
 <p align="center">
-  I enjoy working in collaborative environments, where I can apply agile methodologies to create quality code and improve user experiences. I approach problem-solving with a practical mindset and am dedicated to continuously learning. I'm excited to take on new challenges and contribute to interesting projects.</p>
+  I enjoy working in collaborative environments, where I can apply agile methodologies to create quality code and improve user experiences. I approach problem-solving with a practical mindset and am dedicated to continuously learning.</p>
 
 <h2 align="center">My current skills 🔰 include:</h2>
 
