@@ -46,6 +46,7 @@
 </p>
 
 <p align="center">
+  <a href="https://more-pe.github.io/MP-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-235?style=for-the-badge&logo=ko-fi&logoColor=cyan"></a>
   <a href="https://www.linkedin.com/in/morena-peralta-almada" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:mperalta.dev@gmail.com?subject=Asunto del correo&body=Cuerpo del correo"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo a Gmail"></a>
 </p>
