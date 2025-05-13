@@ -55,8 +55,10 @@
 <h2 align="center">🚧 Technologies I am working on to expand my skillset</h2>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
 </p>
 
 <h2 align="center">📊 My GitHub Stats</h2>
