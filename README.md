@@ -5,15 +5,22 @@
 
 ## From Equations to APIs: My Dev Journey
 
-I'm a former Math Teacher turned Junior Full Stack Developer, specializing in Java with Spring Boot.
-
-My approach to debugging is simple: systematic, relentless, and with the precision of a well-executed proof.
+I'm a former Math Teacher turned Junior Full Stack Developer.
 
 I'm currently diving deep into the world of DevOps and cloud architecture, holding my **AZ-900 certification** to prove it.
 
-* **Learning:** Back-end and DevOps with Java & Spring Boot.
-* **Passion:** Building logical, scalable, and secure applications.
-* **Motto:** "Una lloradita y a seguir." (A little cry and then keep going.)
+## About Me
+
+🌱 I'm currently expanding my skills in **Backend and DevOps** with Java & Spring Boot
+
+🤝 I'm a Backend Developer volunteer at the non-profit organization **AdoptaUnJunior**
+
+💼 I'm ready to bring my skills to my first professional opportunity
+
+
+💖 My motto: **"A problem is just a solution waiting to happen"**
+
+🐈 I'm a proud "michilover"
 
 ## Core Skills
 **Programming Languages:** `Java` `TypeScript` `SQL`
