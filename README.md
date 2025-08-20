@@ -13,30 +13,32 @@
 
 ---
 
-### ☆ ABbout Me
+### ✦ About Me
 
-Currently expanding my skills in **Backend and DevOps** with Java & Spring Boot, while volunteering as a Backend Developer at **AdoptaUnJunior** non-profit organization.
+&nbsp;&nbsp;&nbsp;&nbsp; 🌱 Currently learning and volunteering as a Backend Developer at **AdoptaUnJunior** (non-profit organization).
 
-Ready for my first professional opportunity in **Valencia, Spain**. Coming from a mathematics teaching background, I bring strong problem-solving, communication, and mentoring skills to the development world.
+&nbsp;&nbsp;&nbsp;&nbsp; 🔍 Coming from a mathematics teaching background and ready for my first professional opportunity in 📍**Valencia, Spain**.
 
-My philosophy: *"A problem is just a solution waiting to happen"* 💖
+&nbsp;&nbsp;&nbsp;&nbsp; 🧩 I bring strong problem-solving, communication, and mentoring skills to the development world.
 
-Fun fact: I'm a proud michilover who codes with a cat nearby 🐈
+&nbsp;&nbsp;&nbsp;&nbsp; 🔮 My philosophy: *"A problem is just a solution waiting to happen"*
+
+&nbsp;&nbsp;&nbsp;&nbsp; 🐱 Personal touch: Cat lover and meme collector - because great code needs great vibes!
 
 </br>
 
-### ☆ Featured Projects
+### ✦ Featured Projects
 
 <div align="center">
 
-| 🔧 **[Fixly](https://github.com/morenaperalta/Fixly)** `In Development` | ✈️ **[Happy Travel Backend](https://github.com/morenaperalta/happy-travel-backend)** |
+| 🔧 **[FIXLY](https://github.com/morenaperalta/Fixly)** `In Development` | ✈️ **[HAPPY TRAVEL](https://github.com/morenaperalta/happy-travel-backend)** |
 |:---:|:---:|
 | **REST API for Work Order Management** | **Travel Management API** |
 | `Spring Boot` `Spring Security` `MySQL` `JPA` | `Spring Boot` `PostgreSQL` `Spring Data JPA` |
 | Complete CRUD with authentication & authorization | RESTful API for travel booking and management |
 | Business logic for work order lifecycle | Team collaboration with clean architecture |
 
-| 🛒 **[Optic E-commerce](https://github.com/morenaperalta/ecommerce-optic)** | 🎵 **[Toquen El Dom](https://github.com/morenaperalta/toquenElDom)** |
+| 🛒 **[IRIS & CO](https://github.com/morenaperalta/ecommerce-optic)** | 🎵 **[TOQUEN EL DOM](https://github.com/morenaperalta/toquenElDom)** |
 |:---:|:---:|
 | **Full-Stack E-commerce Platform** | **Interactive Music Game** |
 | `Java` `Spring Boot` `MySQL` `Frontend` | `HTML5` `CSS3` `JavaScript` `DOM` |
@@ -49,7 +51,7 @@ Fun fact: I'm a proud michilover who codes with a cat nearby 🐈
 > 📌 **Tip:** Check out my pinned repositories for more projects and detailed documentation!
 </br>
 
-### ☆ Tech Stack
+### ✦ Tech Stack
 
 <table>
 <tr>
@@ -116,18 +118,13 @@ Fun fact: I'm a proud michilover who codes with a cat nearby 🐈
 </p>
 </br>
 
-### ☆ Currently Learning
-
-**Advanced DevOps & Cloud Architecture** - Expanding my expertise in modern deployment and infrastructure
-
+### ✦ Currently Learning
 - **Docker containerization** for scalable applications
-- **CI/CD pipelines** with Jenkins & GitHub Actions  
-- **Azure advanced services** beyond my AZ-900 certification
-- **AWS cloud services** for comprehensive cloud knowledge
 - **Microservices architecture** with Spring Boot ecosystem
+- **Python & Django** for web development  
 </br>
 
-### ☆ GitHub Analytics
+### ✦ GitHub Analytics
 
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/morenaperalta?cardType=github&theme=nightowl&preferLogin=false" width="400" />
@@ -139,11 +136,4 @@ Fun fact: I'm a proud michilover who codes with a cat nearby 🐈
 </p>
 
 ---
-
-<h4 align="center">
-  <i>✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨</i>
-  <br><br>
-  <b>Ready to collaborate and create amazing solutions together!</b>
-  <br>
-  📍 Valencia, Spain | 💼 Open to opportunities | 🚀 Let's build something great!
-</h4>
+<h3 align="center"><i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i></h3>
