@@ -23,7 +23,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; 🔮 My philosophy: *"A problem is just a solution waiting to happen"*
 
-&nbsp;&nbsp;&nbsp;&nbsp; 🐱 Personal touch: Cat lover and meme collector - because great code needs great vibes!
+&nbsp;&nbsp;&nbsp;&nbsp; 🐱 Personal touch: Cat lover and meme collector - because great code needs happy developers!
 
 </br>
 
