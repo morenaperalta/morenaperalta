@@ -1,7 +1,13 @@
-![banner](https://github.com/user-attachments/assets/641504ae-79f5-4be8-8673-5a14c74ec070)
+<img width="1584" height="396" alt="Banner de LinkedIn Tecnología Abstracto Azul y Blanco (2)" src="https://github.com/user-attachments/assets/bd350aa7-bfcd-4691-a209-1275ec5c4181" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira&weight=500&size=32&pause=1000&color=CD2C62&center=true&width=900&height=200&lines=Hi%2C+I'm+Morena+%CA%95%E3%81%A3%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%E3%81%A3;Welcome+to+my+GitHub+profile+%E3%83%84;(mate%2C+focus)+-%3E+code();That's+how+projects+born+here!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira&weight=500&size=32&pause=1000&color=EB2A64&center=true&width=900&height=200&lines=Hi%2C+I'm+Morena+%CA%95%E3%81%A3%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%E3%81%A3;Welcome+to+my+GitHub+profile+%E3%83%84;(mate+%F0%9F%A7%89,+focus+%F0%9F%92%A1)+-%3E+code()+%F0%9F%92%BB;That's+how+projects+born+here!" 
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
 </p>
 
 <p align="center">
@@ -125,14 +131,23 @@
 </br>
 
 ### ✦ GitHub Analytics
-
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/morenaperalta?cardType=github&theme=nightowl&preferLogin=false" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morenaperalta&theme=nightowl" width="400" />
+  <img 
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/morenaperalta?cardType=github&preferLogin=false&Background=000000&Text=FFFFFF&Title=CD2C62&Ring=CD2C62&Icon=EB2A64" 
+    width="400" 
+  />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morenaperalta&layout=compact&theme=nightowl" width="400" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=morenaperalta&background=000000&currStreakLabel=CD2C62&fire=CD2C62&ring=CD2C62&sideLabels=FFFFFF&dates=FFFFFF&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" 
+    width="400" 
+  />
+</p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=morenaperalta&layout=compact&bg_color=000000&title_color=CD2C62&text_color=FFFFFF&icon_color=CD2C62" 
+    width="400" 
+  />  
 </p>
 
 ---
