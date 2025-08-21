@@ -1,7 +1,7 @@
 ![banner](https://github.com/user-attachments/assets/641504ae-79f5-4be8-8673-5a14c74ec070)
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira&weight=500&size=32&pause=1000&color=0A66C2&center=true&width=900&height=200&lines=Hi%2C+I'm+Morena+%CA%95%E3%81%A3%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%E3%81%A3;Welcome+to+my+GitHub+profile+%E3%83%84;(mate%2C+focus)+-%3E+code();That's+how+projects+born+here!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira&weight=500&size=32&pause=1000&color=CD2C62&center=true&width=900&height=200&lines=Hi%2C+I'm+Morena+%CA%95%E3%81%A3%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%E3%81%A3;Welcome+to+my+GitHub+profile+%E3%83%84;(mate%2C+focus)+-%3E+code();That's+how+projects+born+here!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
