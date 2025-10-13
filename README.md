@@ -33,25 +33,23 @@
 
 </br>
 
-### ✦ Featured Projects
+### ✦ Featured Projects  
 
 <div align="center">
 
-| 🔧 **[FIXLY](https://github.com/morenaperalta/Fixly)** `In Development` | ✈️ **[HAPPY TRAVEL](https://github.com/morenaperalta/happy-travel-backend)** |
+| 🚗 **[GO CON COCHE](https://github.com/morenaperalta/GoConCoche)** | 🔧 **[FIXLY](https://github.com/morenaperalta/Fixly)** |
 |:---:|:---:|
-| **REST API for Work Order Management** | **Travel Management API** |
-| `Spring Boot` `Spring Security` `MySQL` `JPA` | `Spring Boot` `PostgreSQL` `Spring Data JPA` |
-| Complete CRUD with authentication & authorization | RESTful API for travel booking and management |
-| Business logic for work order lifecycle | Team collaboration with clean architecture |
+| **Car Rental Platform** | **REST API for Work Order Management** |
+| `Java 21` `Spring Boot 3` `PostgreSQL` `Redis` | `Spring Boot` `Spring Security` `MySQL` `JPA` |
+| Secure, modular API for car sharing and rentals | Complete CRUD with authentication & authorization |
+| Role-based system for owners, renters, and admins | Business logic for work order lifecycle |
+| ✈️ **[HAPPY TRAVEL](https://github.com/morenaperalta/happy-travel-backend)** | 🛒 **[IRIS & CO](https://github.com/morenaperalta/ecommerce-optic)** |
+| **Travel Management API** | **Full-Stack E-commerce Platform** |
+| `Spring Boot` `PostgreSQL` `Spring Data JPA` | `Java` `Spring Boot` `MySQL` `Frontend` |
+| RESTful API for travel booking and management | Complete online store with product catalog |
+| Team collaboration with clean architecture | Shopping cart and order management |
 
-| 🛒 **[IRIS & CO](https://github.com/morenaperalta/ecommerce-optic)** | 🎵 **[TOQUEN EL DOM](https://github.com/morenaperalta/toquenElDom)** |
-|:---:|:---:|
-| **Full-Stack E-commerce Platform** | **Interactive Music Game** |
-| `Java` `Spring Boot` `MySQL` `Frontend` | `HTML5` `CSS3` `JavaScript` `DOM` |
-| Complete online store with product catalog | First team project with collaborative development |
-| Shopping cart and order management | Interactive game mechanics and responsive design |
-
-</div>
+</div>  
 </br>
 
 > 📌 **Tip:** Check out my pinned repositories for more projects and detailed documentation!
