@@ -1,152 +1,165 @@
-<img width="1584" height="396" alt="Banner de LinkedIn Tecnología Abstracto Azul y Blanco (2)" src="https://github.com/user-attachments/assets/bd350aa7-bfcd-4691-a209-1275ec5c4181" />
+<img width="1584" height="396" alt="LinkedIn Banner" src="https://github.com/user-attachments/assets/bd350aa7-bfcd-4691-a209-1275ec5c4181" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira&weight=500&size=32&pause=1000&color=EB2A64&center=true&width=900&height=200&lines=Hi%2C+I'm+Morena+%CA%95%E3%81%A3%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%E3%81%A3;Welcome+to+my+GitHub+profile+%E3%83%84;(mate+%F0%9F%A7%89,+focus+%F0%9F%92%A1)+-%3E+code()+%F0%9F%92%BB;That's+how+projects+born+here!" 
-      alt="Typing SVG" 
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira&weight=500&size=32&pause=1000&color=EB2A64&center=true&width=900&height=200&lines=Hi%2C+I'm+Morena+%CA%95%E3%81%A3%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%E3%81%A3;Backend+Developer+%F0%9F%92%BB;Building+microservices%2C+one+commit+at+a+time;Less+talk%2C+more+code+%E2%9C%A8"
+      alt="Typing SVG"
     />
   </a>
 </p>
-</p>
 
 <p align="center">
-  <a href="https://morenaperalta.github.io/MP-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-235?style=for-the-badge&logo=ko-fi&logoColor=cyan"></a>
-  <a href="https://www.linkedin.com/in/morenaperalta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8+PC9zdmc+" alt="LinkedIn"></a>
-  <a href="mailto:mperalta.dev@gmail.com?subject=Asunto del correo&body=Cuerpo del correo"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo a Gmail"></a>
-  <a href="https://discord.com/users/1236040054296678503" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Contáctame en Discord"></a>
+  <a href="https://morenaperalta.github.io/MP-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-235?style=for-the-badge&logo=ko-fi&logoColor=cyan" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/morenaperalta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:mperalta.dev@gmail.com?subject=Hello%20Morena">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://discord.com/users/1236040054296678503" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </p>
 
 ---
 
 ### ✦ About Me
 
-&nbsp;&nbsp;&nbsp;&nbsp; 🌱 Currently learning and volunteering as a Backend Developer at **AdoptaUnJunior** (non-profit organization).
+I'm Morena, a Backend Developer based in 📍 **Valencia, Spain**, working in the banking sector.
 
-&nbsp;&nbsp;&nbsp;&nbsp; 🔍 Coming from a mathematics teaching background and ready for my first professional opportunity in 📍**Valencia, Spain**.
+- 💻 Developing and maintaining **microservices for payment processing systems**.
+- ☕ Working with **Java EE, Spring Boot, REST APIs**, and enterprise platforms such as **ASO and APX**.
+- 🧪 Focused on code quality, testing, integration, and maintainable software.
+- 🔍 Debugging distributed systems and figuring out why something worked perfectly five minutes ago.
+- 🧠 Former mathematics teacher turned developer — problem-solving was always part of the job.
+- 🐱 Cat lover, meme collector, and firm believer that a good cup of mate can improve almost any debugging session.
 
-&nbsp;&nbsp;&nbsp;&nbsp; 🧩 I bring strong problem-solving, communication, and mentoring skills to the development world.
+My focus is building reliable backend services where performance, security, and stability actually matter.
 
-&nbsp;&nbsp;&nbsp;&nbsp; 🔮 My philosophy: *"A problem is just a solution waiting to happen"*
-
-&nbsp;&nbsp;&nbsp;&nbsp; 🐱 Personal touch: Cat lover and meme collector - because great code needs happy developers!
+**My philosophy:** *Make it work, make it right, make it maintainable.*
 
 </br>
 
-### ✦ Featured Projects  
+### ✦ Featured Projects
 
 <div align="center">
 
 | 🚗 **[GO CON COCHE](https://github.com/morenaperalta/GoConCoche)** | 🔧 **[FIXLY](https://github.com/morenaperalta/Fixly)** |
 |:---:|:---:|
-| **Car Rental Platform** | **REST API for Work Order Management** |
+| **Car Rental Platform** | **Work Order Management API** |
 | `Java 21` `Spring Boot 3` `PostgreSQL` `Redis` | `Spring Boot` `Spring Security` `MySQL` `JPA` |
-| Secure, modular API for car sharing and rentals | Complete CRUD with authentication & authorization |
-| Role-based system for owners, renters, and admins | Business logic for work order lifecycle |
+| Modular API for car sharing and rentals | CRUD operations, authentication, and authorization |
+| Role-based access for owners, renters, and admins | Business logic for work order lifecycles |
+
 | ✈️ **[HAPPY TRAVEL](https://github.com/morenaperalta/happy-travel-backend)** | 🛒 **[IRIS & CO](https://github.com/morenaperalta/ecommerce-optic)** |
+|:---:|:---:|
 | **Travel Management API** | **Full-Stack E-commerce Platform** |
 | `Spring Boot` `PostgreSQL` `Spring Data JPA` | `Java` `Spring Boot` `MySQL` `Frontend` |
-| RESTful API for travel booking and management | Complete online store with product catalog |
-| Team collaboration with clean architecture | Shopping cart and order management |
+| REST API for travel booking and management | Online store with product catalog |
+| Team collaboration and clean architecture | Shopping cart and order management |
 
-</div>  
-</br>
+</div>
 
-> 📌 **Tip:** Check out my pinned repositories for more projects and detailed documentation!
+> 📌 Check out my pinned repositories for projects, code, and documentation.
+
 </br>
 
 ### ✦ Tech Stack
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-### Backend
-- `Java` `TypeScript` `JavaScript`
-- `Spring Boot` `Spring Security`
-- `Node.js` `Express.js` `NestJS`
-- `Spring Data JPA` `Hibernate`
-
-</td>
-<td valign="top" width="33%">
-
-### Frontend
-- `HTML5` `CSS3` `React`
-- `Bootstrap` `Material UI` 
-- `Axios` `DOM Manipulation`
-- `Responsive Design`
+### Backend & Enterprise
+- `Java`
+- `Java EE`
+- `Spring Boot`
+- `ASO`
+- `APX`
+- `RESTful APIs`
+- `Microservices`
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-### Database & Testing
-- `MySQL` `PostgreSQL` `MongoDB`
-- `JUnit 5` `Mockito`
-- `Integration Testing`
-- `SQL` `Database Design`
+### Testing & Code Quality
+- `JUnit 5`
+- `SonarQube`
+- Unit Testing
+- Code Quality
+- Code Maintainability
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td valign="top" width="50%">
 
-### DevOps & Cloud
-- `Docker` `Jenkins` `GitHub Actions`
-- `Azure` `AWS (EC2)` `Azure DevOps`
-- `CI/CD Pipelines`
-
-</td>
-<td valign="top">
-
-### Tools & Methodologies  
-- `Git` `GitHub` `Git Flow`
-- `Scrum` `Kanban` `SOLID Principles`
-- `Clean Architecture` `MVC`
-- `RESTful API Design`
+### Tools & Workflow
+- `GitHub`
+- `SourceTree`
+- `Jira`
+- `Artifactory`
+- Internal banking tools
+- Version Control
+- Team Collaboration
 
 </td>
-<td valign="top">
+<td valign="top" width="50%">
 
-### Development Tools
-- `IntelliJ IDEA` `VSCode`
-- `Postman` `Swagger`
-- `Jira` `Trello` `Slack`
-- `GitHub Projects`
+### What I Work On
+- Payment Processing Systems
+- Microservices Development & Maintenance
+- API Design & Integration
+- Debugging & Troubleshooting
+- System Stability & Reliability
 
 </td>
 </tr>
 </table>
-<p align="center">
-<img src="https://img.shields.io/badge/Microsoft%20Azure-AZ--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Certified-success?style=for-the-badge" />
-</p>
+
 </br>
 
 ### ✦ Currently Learning
-- **Docker containerization** for scalable applications
-- **Microservices architecture** with Spring Boot ecosystem
-- **Python & Django** for web development  
+
+- ⚙️ Deepening my understanding of enterprise architecture and distributed systems.
+- 🧪 Improving test coverage and writing maintainable code.
+- 🔍 Finding better ways to troubleshoot and improve service reliability.
+
 </br>
 
 ### ✦ GitHub Analytics
+
 <p align="center">
-  <img 
-    src="https://awesome-github-stats.azurewebsites.net/user-stats/morenaperalta?cardType=github&preferLogin=false&Background=000000&Text=FFFFFF&Title=CD2C62&Ring=CD2C62&Icon=EB2A64" 
-    width="400" 
+  <img
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/morenaperalta?cardType=github&preferLogin=false&Background=000000&Text=FFFFFF&Title=CD2C62&Ring=CD2C62&Icon=EB2A64"
+    width="400"
+    alt="GitHub Stats"
   />
 </p>
+
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=morenaperalta&background=000000&currStreakLabel=CD2C62&fire=CD2C62&ring=CD2C62&sideLabels=FFFFFF&dates=FFFFFF&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" 
-    width="400" 
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=morenaperalta&background=000000&currStreakLabel=CD2C62&fire=CD2C62&ring=CD2C62&sideLabels=FFFFFF&dates=FFFFFF&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    width="400"
+    alt="GitHub Contribution Streak"
   />
 </p>
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=morenaperalta&layout=compact&bg_color=000000&title_color=CD2C62&text_color=FFFFFF&icon_color=CD2C62" 
-    width="400" 
-  />  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=morenaperalta&layout=compact&bg_color=000000&title_color=CD2C62&text_color=FFFFFF&icon_color=CD2C62"
+    width="400"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <i>⚠️ These stats are a little behind the times. My company GitHub is full of green squares, though — I promise I'm still writing code. 🌱</i>
 </p>
 
 ---
-<h3 align="center"><i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i></h3>
+
+<h3 align="center"><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></h3>
