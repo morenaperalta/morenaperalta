@@ -3,16 +3,13 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira&weight=500&size=32&pause=1000&color=EB2A64&center=true&width=900&height=200&lines=Hi%2C+I'm+Morena+%CA%95%E3%81%A3%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%E3%81%A3;Backend+Developer+%F0%9F%92%BB;Building+microservices%2C+one+commit+at+a+time;Less+talk%2C+more+code+%E2%9C%A8"
+      src="https://readme-typing-svg.demolab.com?font=Fira&weight=500&size=32&pause=1000&color=EB2A64&center=true&width=900&height=200&lines=Hi%2C+I'm+Morena+%CA%95%E3%81%A3%E2%80%A2%E1%B4%A5%E2%80%A2%CA%94%E3%81%A3"
       alt="Typing SVG"
     />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://morenaperalta.github.io/MP-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-235?style=for-the-badge&logo=ko-fi&logoColor=cyan" alt="Portfolio">
-  </a>
   <a href="https://www.linkedin.com/in/morenaperalta" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
