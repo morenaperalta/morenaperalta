@@ -28,18 +28,15 @@
 
 ### ✦ About Me
 
-I'm Morena, a Backend Developer based in 📍 **Valencia, Spain**, working in the banking sector.
+I'm a Backend Developer based in 📍**Valencia, Spain**, working in the banking sector.
 
 - 💻 Developing and maintaining **microservices for payment processing systems**.
 - ☕ Working with **Java EE, Spring Boot, REST APIs**, and enterprise platforms such as **ASO and APX**.
 - 🧪 Focused on code quality, testing, integration, and maintainable software.
 - 🔍 Debugging distributed systems and figuring out why something worked perfectly five minutes ago.
 - 🧠 Former mathematics teacher turned developer — problem-solving was always part of the job.
-- 🐱 Cat lover, meme collector, and firm believer that a good cup of mate can improve almost any debugging session.
 
 My focus is building reliable backend services where performance, security, and stability actually matter.
-
-**My philosophy:** *Make it work, make it right, make it maintainable.*
 
 </br>
 
@@ -157,9 +154,5 @@ My focus is building reliable backend services where performance, security, and 
 </p>
 
 <p align="center">
-  <i>⚠️ These stats are a little behind the times. My company GitHub is full of green squares, though — I promise I'm still writing code. 🌱</i>
+  <i>⚠️ These stats are a little behind the times. My company GitHub is full of green squares, I promise! 🌱</i>
 </p>
-
----
-
-<h3 align="center"><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></h3>
